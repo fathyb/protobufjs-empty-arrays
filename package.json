@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "pbjs message.proto -t static-module -o message.js"
+  },
+  "dependencies": {
+    "protobufjs": "^6.6.5"
+  }
+}

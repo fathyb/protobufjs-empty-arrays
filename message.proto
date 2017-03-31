@@ -1,0 +1,4 @@
+
+message TestMessage {
+    optional bytes data = 1;
+}
